@@ -80,6 +80,12 @@ Settings-ssh and gpg keys-add new ssh key
 
 `git pull origin`
 
+`git pull --rebase origin master`
+
+`git push -u origin master`
+
+
+
 
 
 
