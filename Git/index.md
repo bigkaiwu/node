@@ -84,6 +84,12 @@ Settings-ssh and gpg keys-add new ssh key
 
 `git push -u origin master`
 
+### other
+
+`git checkout -b dev`创建并切换到dev分支上
+
+`git branch -d dev`删除dev分支
+
 
 
 
